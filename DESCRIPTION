@@ -8,7 +8,6 @@ Maintainer: Panagiotis Moulos <moulos@fleming.gr>
 Depends:
     R (>= 3.4.0),
     EDASeq,
-    DESeq,
     limma,
     qvalue
 Imports:
